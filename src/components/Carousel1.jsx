@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Carousel1 = (projectLink1) => {
+const Carousel1 = ({ link: { projectLink1 } }) => {
     return (
         <a href={projectLink1} target="_blank" rel="noopener noreferrer">
             <div id="carouselExampleIndicators" className="carousel slide" data-bs-ride="true">

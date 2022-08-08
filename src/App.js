@@ -42,7 +42,7 @@ function App() {
               </div>
               <p>Online app that allows users to organize and plan their events. Users can view all events relavent to them through a dashboard, and can create todo lists for attendees.</p>
               <br />
-              <Carousel1 projectLink1={projectLink1} />
+              <Carousel1 link={{ projectLink1 }} />
               <h4>Using:</h4>
               <ul className='ul-none'>
                 <li><i className='fa fa-solid fa-check'></i> Angular</li>
