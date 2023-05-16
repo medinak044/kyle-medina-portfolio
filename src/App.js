@@ -93,7 +93,7 @@ function App() {
               <p>In my spare time, I recreate older game soundtracks into orchestral versions of them to listen to. Creating hundreds of tracks really helped improve my music-making skills. The embedded track below is an example of one of my own original works.</p>
 
               <audio controls="controls">
-                <source src="https://docs.google.com/uc?export=download&id=1zDybbtelGQ5jDLRyBMA3fnPdi1C6QAnZ" />
+                <source src="https://docs.google.com/uc?export=download&id=1n-x80lQhTzyPGJQ54VsQxkfs1vduFtyJ" />
               </audio>
 
               <h2 className='mt-5'>Philosophy
