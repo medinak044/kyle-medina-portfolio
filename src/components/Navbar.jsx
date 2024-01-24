@@ -1,8 +1,10 @@
 import React from 'react'
 import logo from '../logo.svg';
+import profilePic from '../assets/Kyle_Medina_Photo_01b2 (256x256).jpg';
 
 
 const Navbar = () => {
+    // const profileImgUrl = 'https://drive.google.com/uc?export=view&id=1TuLfMJGftdcJ3B2fHZpo_DpgqlZXNNi_'
     const profileImgUrl = 'https://drive.google.com/uc?export=view&id=1TuLfMJGftdcJ3B2fHZpo_DpgqlZXNNi_'
     const linkedInLink = "https://www.linkedin.com/in/kyle-medina/"
 
@@ -10,7 +12,7 @@ const Navbar = () => {
         <>
             <div className='containerX text-center'>
                 <a href={linkedInLink} target="_blank" rel="noopener noreferrer">
-                    <img id='profileImg' className="img-fluid img-profile rounded-circle mx-auto mb-5" src={profileImgUrl} alt="Profile image"></img>
+                    <img id='profileImg' className="img-fluid img-profile rounded-circle mx-auto mb-5" src={profilePic} alt="Profile image"></img>
                 </a>
 
                 <div id='side-list' className="">
