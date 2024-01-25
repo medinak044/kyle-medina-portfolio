@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51c0b34c.css",
+    "main.js": "/static/js/main.a3013afd.js",
+    "static/js/787.7866010c.chunk.js": "/static/js/787.7866010c.chunk.js",
+    "static/media/TUS_060_1b2X.wav": "/static/media/TUS_060_1b2X.e05404f9b71f0a9f9e36.wav",
+    "static/media/home-01.jpg": "/static/media/home-01.984a043fae1c6f3535d8.jpg",
+    "static/media/admin-01.jpg": "/static/media/admin-01.4cf52443149eb2fcc4c8.jpg",
+    "static/media/events-01.jpg": "/static/media/events-01.a117785ea9550589662f.jpg",
+    "static/media/profile-01.jpg": "/static/media/profile-01.bfeaa3e6c51d6a3ad55f.jpg",
+    "static/media/view-users-01.jpg": "/static/media/view-users-01.43f7d0e4601e286d4ff7.jpg",
+    "static/media/textblockform.png": "/static/media/textblockform.c88eaf3b9377caf17f0d.png",
+    "static/media/project.png": "/static/media/project.3c55ba098e8771dcdc69.png",
+    "static/media/register-01.jpg": "/static/media/register-01.58176cd86b40ada560fb.jpg",
+    "static/media/login-01.jpg": "/static/media/login-01.e32b009f108739c90427.jpg",
+    "static/media/home.png": "/static/media/home.da879028409cc2c69ef5.png",
+    "static/media/Kyle_Medina_Photo_01b2 (256x256).jpg": "/static/media/Kyle_Medina_Photo_01b2 (256x256).795eb1a181420e8730fb.jpg",
+    "static/media/projects.png": "/static/media/projects.199c138d412af0a6274a.png",
+    "static/media/login.png": "/static/media/login.e90f039e4fa0a28d4b02.png",
+    "static/media/register.png": "/static/media/register.7cc5bddb19a82962d847.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.51c0b34c.css.map": "/static/css/main.51c0b34c.css.map",
+    "main.a3013afd.js.map": "/static/js/main.a3013afd.js.map",
+    "787.7866010c.chunk.js.map": "/static/js/787.7866010c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c0b34c.css",
+    "static/js/main.a3013afd.js"
+  ]
+}
